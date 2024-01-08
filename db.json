@@ -1,18 +1,25 @@
 {
   "phones": [
     {
-      "bookName": "1234",
-      "bookAuthor": "2345",
-      "bookImg": "345",
-      "bookPrice": "345544",
-      "id": 1
+      "bookName": "уаакуа",
+      "bookAuthor": "какаку",
+      "bookImg": "https://cdn.shopify.com/s/files/1/0824/3121/t/204/assets/14plus-1682521510056.png?v=1682521531",
+      "bookPrice": "укаука",
+      "id": 2
     },
     {
-      "bookName": "1234",
-      "bookAuthor": "2345",
-      "bookImg": "234",
-      "bookPrice": "234",
-      "id": 2
+      "bookName": "erreg",
+      "bookAuthor": "efef",
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7eYpC6k4Eh7aMvKuKwCR8RGRRCdOACaqEw&usqp=CAU",
+      "bookPrice": "regre",
+      "id": 3
+    },
+    {
+      "bookName": "укакпукп",
+      "bookAuthor": "купкупук",
+      "bookImg": "https://i02.appmifile.com/373_operatorx_operatorx_opx/10/05/2023/657e399a69e188fb194c3804f33fb67d!348x348.png",
+      "bookPrice": "укпкупупу",
+      "id": 4
     }
   ]
 }
